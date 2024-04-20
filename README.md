@@ -6,7 +6,7 @@
 2. Асатрян Рафаэль -
 3. Дмитрий Дмитриев -
 # Ссылки
-1. Техническое задание
+1. Техническое задание - [_._ (1).docx](https://github.com/AsatRafa/MegaSuperQuantoMoodleForStudy/files/15049663/_._.1.docx)
 2. Курсовая работа
 3. Trello
 4. Miro
